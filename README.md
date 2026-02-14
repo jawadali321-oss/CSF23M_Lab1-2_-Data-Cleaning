@@ -1,46 +1,45 @@
-# CSF23M_Lab1-2_-Data-Cleaning
 Data Cleaning - Kaggle Mini Course
-📋 Project Overview
-This repository contains my completed work from the Kaggle Data Cleaning Mini Course, undertaken as part of Machine Learning Labs 01 & 02. The course focuses on essential data preprocessing techniques required for machine learning pipelines.
+Overview
+This repository contains completed exercises from the Kaggle Data Cleaning Mini Course as part of Machine Learning Labs 01 & 02.
 
-Course Link: Kaggle - Data Cleaning
+Course Link: https://www.kaggle.com/learn/data-cleaning
 
- Learning Objectives
-Through this course, I gained hands-on experience with:
-
-Identifying and handling missing data
-Scaling and normalizing numerical features
-Parsing and standardizing date formats
-Working with different character encodings
-Detecting and correcting inconsistent data entries
- Course Structure
+Labs Completed
 Lab 1: Core Data Cleaning Techniques
 Handling Missing Values
-Identifying missing data patterns
-Techniques: dropping vs. imputation
-Strategic approaches based on data characteristics
 Scaling and Normalization
-Understanding when and why to scale data
-MinMax scaling vs. standardization
-Impact on machine learning algorithms
 Parsing Dates
-Converting string representations to datetime objects
-Handling multiple date formats
-Extracting temporal features (day, month, year)
 Lab 2: Advanced Data Consistency
 Character Encodings
-Understanding UTF-8, ASCII, and other encodings
-Detecting file encodings programmatically
-Converting between different encoding formats
 Inconsistent Data Entry
-Identifying inconsistencies in categorical data
-Using fuzzy matching for data standardization
-Text preprocessing techniques (lowercasing, whitespace removal)
-Technologies & Libraries Used
+Technologies Used
 Python 3.x
-pandas - Data manipulation and analysis
-numpy - Numerical computing
-matplotlib/seaborn - Data visualization
-charset_normalizer - Character encoding detection
-fuzzywuzzy - Fuzzy string matching
-📁 Repository Structure
+pandas
+numpy
+charset_normalizer
+fuzzywuzzy
+Key Skills Learned
+Identifying and handling missing data
+Scaling and normalizing features
+Parsing different date formats
+Working with character encodings
+Fixing inconsistent data entries
+Repository Contents
+exercise-handling-missing-values.ipynb
+exercise-scaling-and-normalization.ipynb
+exercise-parsing-dates.ipynb
+exercise-character-encodings.ipynb
+exercise-inconsistent-data-entry.ipynb
+Links
+Kaggle Certificate: https://www.kaggle.com/learn/certification/bcsf23m541jawadali/data-cleaning
+LinkedIn Profile: 
+Completion Date: February 2026
+
+Time Invested: ~5 hours
+
+Contact
+[Your Name]
+
+[Your Email]
+
+[GitHub Profile]
