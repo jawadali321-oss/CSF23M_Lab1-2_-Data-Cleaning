@@ -32,14 +32,13 @@ exercise-character-encodings.ipynb
 exercise-inconsistent-data-entry.ipynb
 Links
 Kaggle Certificate: https://www.kaggle.com/learn/certification/bcsf23m541jawadali/data-cleaning
-LinkedIn Profile: 
+LinkedIn Profile:  www.linkedin.com/in/jawad-ali-43b56a247
 Completion Date: February 2026
 
 Time Invested: ~5 hours
 
-Contact
-[Your Name]
+Name   :  Jawad ali
+Roll  : bcsf23m541 
 
-[Your Email]
 
-[GitHub Profile]
+
